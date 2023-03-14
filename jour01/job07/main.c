@@ -12,7 +12,7 @@ int main() {
     
 
 
-    printf("%.2f \n", a/b);
+    printf("%.2f \n", a / b);
     printf("%.2f \n", a + b);
     printf("%.2f \n", a - b);
     printf("%.2f \n", a * b);
